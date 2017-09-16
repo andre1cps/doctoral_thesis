@@ -2,7 +2,7 @@
 
 ## Description
 
-Studies related to my doctoral thesis on atmospheric physics, whose title is "Evaluating the atmospheric origins and ecological impacts of current and future drought events in South America using complex networks".
+Studies related to my atmospheric physics doctoral thesis entitled "Evaluating the atmospheric origins and ecological impacts of current and future drought events in South America using complex networks".
 
 ### Summary
 
