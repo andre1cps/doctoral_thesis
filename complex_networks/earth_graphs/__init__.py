@@ -15,4 +15,4 @@ Email: alex.fate2000@gmail.com
 from . import grids
 from . import benchmark_network
 
-__all__ = ['grids', 'benchmark_network']
+__all__ = ["grids", "benchmark_network"]
