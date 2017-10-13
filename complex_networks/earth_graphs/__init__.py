@@ -8,10 +8,11 @@ surface.
 Under construction.
 
 Author: Alex Sandro Alves de Araujo
-email: alex.fate2000@gmail.com
+Email: alex.fate2000@gmail.com
 
 """
 
-from . import benchmark_network
 from . import grids
+from . import benchmark_network
 
+__all__ = ['grids', 'benchmark_network']
